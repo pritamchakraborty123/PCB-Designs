@@ -1,0 +1,11 @@
+Partlist exported from C:/Users/Bhabesh Chakraborty/Documents/EAGLE/projects/USBTTL/usb2ttl.sch at 05-06-2020 19:38
+
+Qty Value                        Device                       Package   Parts             Description                                                             MF MPN     OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+2                                LED5MM                       LED5MM    RX_LED, TX_LED    LED                                                                                                     93                    
+2                                MA03-1                       MA03-1    I/O_SELECT, POWER PIN HEADER                                                                         unknown    unknown   48                    
+1                                MA06-1                       MA06-1    SV1               PIN HEADER                                                                         unknown    unknown   28                    
+2   100nf                        C2,5-3                       C2.5-3    C1, C2            CAPACITOR                                                                                               38                    
+2   270ohm                       R-US_0204/7                  0204/7    R1, R2            RESISTOR, American symbol                                                                               48         R          
+1   4.7uf                        C2,5-3                       C2.5-3    C3                CAPACITOR                                                                                               38                    
+1   FT232RL                      FT232RL                      SSOP28    IC1               Source: http://www.ftdichip.com/Documents/DataSheets/DS_FT232R_v104.pdf    FT232RL 1146032    91K9918   14                    
+1   MINI-USB_SHIELD5P4-32005-501 MINI-USB_SHIELD5P4-32005-501 32005-501 X1                MINI USB-B R/A W/O POST 5 pol.                                                     unknown    unknown   0                     

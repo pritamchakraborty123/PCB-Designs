@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/Bhabesh Chakraborty/Documents/EAGLE/projects/Audio Amplifier(with bass boost)/Audio Amplifier(bass boost).sch at 05-06-2020 19:36
+
+Qty Value      Device      Package    Parts             Description                                    MF    MPN        OC_FARNELL OC_NEWARK POPULARITY SPICEMODEL SPICEPREFIX SPICEPREFIXL
+1              LED5MM      LED5MM     LED1              LED                                                                                  93                                            
+1   0.1uf      C2.5/2      C2.5-2     C1                CAPACITOR                                                                            28                                            
+1   1000uf     C5/3        C5B3       C2                CAPACITOR                                                                            4                                             
+1   10k        R-TRIMM64W  RTRIM64W   VOLUME            Trimm resistor                                                                       0          X                      POT         
+1   10ohm      R-EU_0207/7 0207/7     R1                RESISTOR, European symbol                                                            46                    R                       
+1   1501_05    1501_05     1501_05    X1                Jack connectors according to JISC 6560, 2.5 mm                  1216978    unknown   0                                             
+3   22-23-2021 22-23-2021  22-23-2021 INPUT, OUTPUT, X4 .100" (2.54mm) Center Header - 2 Pin           MOLEX 22-23-2021 1462926    25C3832   40                                            
+1   300ohm     R-EU_0207/7 0207/7     R3                RESISTOR, European symbol                                                            46                    R                       
+1   7808T      7808T       TO220H     7809              Positive VOLTAGE REGULATOR                                                           0                                             
+1   LM386N-3   LM386N-3    DIL08      IC1               Low Voltage Audio Power Amplifier                                                    0                                             
